@@ -1,7 +1,3 @@
-/**
- * Created by bhavyaagg on 01/04/18.
- */
-
 const express = require('express');
 const app = express();
 

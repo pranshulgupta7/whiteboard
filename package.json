@@ -1,16 +1,25 @@
 {
-  "name": "socket-whiteboard",
+  "name": "whiteboard",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "Bhavya Aggarwal <bhavyaaggarwal1209@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "socket.io": "^2.1.0"
   },
-  "description": ""
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshulgupta7/whiteboard.git"
+  },
+  "author": "pranshulgupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranshulgupta7/whiteboard/issues"
+  },
+  "homepage": "https://github.com/pranshulgupta7/whiteboard#readme"
 }
